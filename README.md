@@ -7,4 +7,6 @@ O problema consiste na verificação do número de pares ordenados (A,B) distint
 Link para a página da OBI, contendo a descrição do problema: https://olimpiada.ic.unicamp.br/pratique/p2/2021/f3/falha/
 
 # Link para o deploy do projeto no GitHub Pages:
-xxx
+
+A aplicação foi publicada na web, por meio do GitHub Pages, e pode ser acessada pelo seguinte link:
+https://paivaricardo.github.io/desafio-falha-seguranca-react/
