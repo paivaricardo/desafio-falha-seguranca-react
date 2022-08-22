@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/desafio-falha-seguranca-react/static/css/main.162ec90c.css",
+    "main.js": "/desafio-falha-seguranca-react/static/js/main.2c2cbb15.js",
+    "index.html": "/desafio-falha-seguranca-react/index.html",
+    "main.162ec90c.css.map": "/desafio-falha-seguranca-react/static/css/main.162ec90c.css.map",
+    "main.2c2cbb15.js.map": "/desafio-falha-seguranca-react/static/js/main.2c2cbb15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.162ec90c.css",
+    "static/js/main.2c2cbb15.js"
+  ]
+}
